@@ -22,7 +22,9 @@ We begin with the rendered video came from the scene.
 - calculate pixels mean value
 - plot light curve (frame number vs mean value)
 
-It turns out we got a beautiful sinusoidal-looking graph! 
+It turns out we got beautiful sinusoidal-looking graphs! 
+
+### Sample:
 
 Toutatis Asteroid           |  Geographos Asteroid
 :-------------------------:|:-------------------------:
